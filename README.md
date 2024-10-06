@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Perun98/Perun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <div align="center">👑[![Python](./logos/python.svg)](https://www.python.org/)👑</div> |
+|-----------------------------------------------------------------------------------------|
+| [![PyTorch](./logos/pytorch.svg)](https://pytorch.org/) [![TensorFlow](./logos/tensorflow.svg)](https://www.tensorflow.org/) [![Keras](./logos/keras.svg)](https://keras.io/) [![ScikitLearn](./logos/sklearn.svg)](https://scikit-learn.org/) [![OpenAI](./logos/openai.svg)](https://platform.openai.com/docs/api-reference/introduction?lang=python) [![LangChain](./logos/langchain.svg)](https://www.langchain.com/) [![NLTK](./logos/nltk.svg)](https://www.nltk.org/) [![OpenCV](./logos/opencv.svg)](https://opencv.org/) [![PyTesseract](./logos/pytesseract.svg)](https://pypi.org/project/pytesseract/) |
+| [![CuPy](./logos/cupy.svg)](https://cupy.dev/) [![Numba](./logos/numba.svg)](https://numba.pydata.org/) [![NumPy](./logos/numpy.svg)](https://numpy.org/) [![SciPy](./logos/scipy.svg)](https://www.scipy.org/) [![Pandas](./logos/pandas.svg)](https://pandas.pydata.org/) [![Polars](./logos/polars.svg)](https://www.pola.rs/) [![BeautifulSoup4](./logos/beautifulsoup4.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [![Pillow](./logos/pillow.svg)](https://python-pillow.org/) [![Plotly](./logos/plotly.svg)](https://plotly.com/) [![Matplotlib](./logos/matplotlib.svg)](https://matplotlib.org/) [![Seaborn](./logos/seaborn.svg)](https://seaborn.pydata.org/) |
+| [![Streamlit](./logos/streamlit.svg)](https://streamlit.io/) [![Pyscript](./logos/pyscript.svg)](https://pyscript.net/) [![FastAPI](./logos/fastapi.svg)](https://fastapi.tiangolo.com/) [![Flask](./logos/flask.svg)](https://flask.palletsprojects.com/en/3.0.x/) [![Celery](./logos/celery.svg)](https://docs.celeryq.dev/en/stable/getting-started/introduction.html) [![DockerPy](./logos/dockerpy.svg)](https://docker-py.readthedocs.io/en/stable/) [![Uvicorn](./logos/uvicorn.svg)](https://www.uvicorn.org/) [![Gunicorn](./logos/gunicorn.svg)](https://gunicorn.org/) [![Sphinx](./logos/sphinx.svg)](https://www.sphinx-doc.org/en/master/) |
+| [![Pinecone](./logos/pinecone.svg)](https://www.pinecone.io/) [![Neo4j](./logos/neo4j.svg)](https://neo4j.com/) [![MySQL](./logos/mysql.svg)](https://dev.mysql.com/doc/connector-python/en/) [![PostgreSQL](./logos/postgresql.svg)](https://www.psycopg.org/) [![PyODBC](./logos/pyodbc.svg)](https://github.com/mkleehammer/pyodbc/) [![SQLAlchemy](./logos/sqlalchemy.svg)](https://www.sqlalchemy.org/) |
+| [![PyGame](./logos/pygame.svg)](https://www.pygame.org/) [![Pyglet](./logos/pyglet.svg)](https://pyglet.org/) |
+</div>
 
-Here are some ideas to get you started:
+##
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Azure](./logos/azure.svg)](https://learn.microsoft.com/en-us/azure/azure-portal/)
+  [![Odoo](./logos/odoo.svg)](https://www.odoo.com/)<img src="./logos/python.svg" width="15" height="15" />
+  [![Git](./logos/git.svg)](https://git-scm.com/)
+  [![VS](./logos/vs.svg)](https://visualstudio.microsoft.com/)
+  [![VSC](./logos/vsc.svg)](https://code.visualstudio.com/)
+  [![C](./logos/c.svg)](https://www.learn-c.org/)
+  [![HTML5](./logos/html5.svg)](https://html.spec.whatwg.org/multipage/)
+  [![CSS3](./logos/css3.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
+</div>
+
+##
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perun98&theme=merko&hide_border=false&ring=4B8B3B&fire=FBAA18&currStreakLabel=4B8B3B&sideLabels=FBAA18&count_private=true" alt="Perun98's GitHub streak" style="border: 2px solid #4B8B3B; border-radius: 8px;" />
+</div>
